@@ -34,5 +34,4 @@ class Square:
         this calculates the arera of the square
         """
 
-        area = self.__size * self.__size
-        return area
+        return self.__size**2
