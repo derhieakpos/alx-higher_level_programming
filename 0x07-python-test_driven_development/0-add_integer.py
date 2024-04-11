@@ -4,6 +4,7 @@
 This module adds two numbers that are integers and float type
 """
 
+
 def add_integer(a, b=98):
     """
     This function adds two numbers.
