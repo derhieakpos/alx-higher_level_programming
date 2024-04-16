@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-A module that return True if the oblect is exactly an instance of the specified class
+A module that return True if the obj is an exact instance of a specified class
 """
 
 
@@ -11,7 +11,7 @@ def is_same_class(obj, a_class):
         the object to be detected
     a_class:
         the type of object
-    Returns: 
+    Returns:
         if the object is True or False
     """
 
