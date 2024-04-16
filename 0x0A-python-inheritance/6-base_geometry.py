@@ -4,7 +4,6 @@ A module that executes  geometric functions
 """
 
 
-
 class BaseGeometry:
     """
     An empty class

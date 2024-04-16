@@ -9,7 +9,7 @@ A module that returns a boolean:
 def inherits_from(obj, a_class):
     """
     A function that checks the object's instance
-        
+
     Args:
         obj: the object
         a_class: the instance
