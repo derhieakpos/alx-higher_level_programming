@@ -35,7 +35,7 @@ class BaseGeometry:
             raise ValueError("{} must be greater than 0".format(name))
 
 
-class Rectangle:
+class Rectangle(BaseGeometry):
     """
     A class of rectangle
     """
